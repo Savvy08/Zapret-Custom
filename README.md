@@ -146,4 +146,4 @@ ZapretCustom/
 
 ----
 
-*Version 0.1 - 2025*
+*Version 0.2 - 2025*
