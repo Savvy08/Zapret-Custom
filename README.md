@@ -20,7 +20,7 @@ zapret является свободным и open source. Всякий, кто 
 Две версии:
 
 - No config - это значит вы скачиваете обычный .exe файл и перемещаете его в папку с zapret. (**в разработке**)
-- Config - содержит в себе форк [Flowseal](https://github.com/Flowseal/zapret-discord-youtube).
+- ZapretCustom_Setup - содержит в себе форк [Flowseal](https://github.com/Flowseal/zapret-discord-youtube).
 
 **Добавлено мною в сам zapret:**
 
