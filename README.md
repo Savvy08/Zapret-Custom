@@ -137,6 +137,7 @@ ZapretCustom/
 - Python 3.11+
 - customtkinter
 - tkinter (встроен в Python)
+- Qt6
 
 ------
 
@@ -147,4 +148,4 @@ ZapretCustom/
 
 ----
 
-*Version 0.2 - 2025*
+*Version 0.3 - 2025*
