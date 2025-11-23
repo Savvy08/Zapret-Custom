@@ -37,6 +37,9 @@
 --filter-udp=21000-21999 --dpi-desync=fake --dpi-desync-autottl=2 --dpi-desync-repeats=10 --dpi-desync-any-protocol=1 --dpi-desync-fake-unknown-udp="%BIN%quic_initial_www_google_com.bin" --dpi-desync-cutoff=n2
 ```
 
+Должно получится так: ![notepad++_Jp0I01Qis7](https://github.com/user-attachments/assets/41aa3d8b-32fc-4fbb-a3e3-e391ccb43189)
+
+
 Обязательно сохраните файл.
 
 Шаг 6. Закройте все окна zapret (если они ещё открыты). Запустите BF6, дождитесь загрузки главного меню — и только после этого запустите ваш изменённый файл (например, general_ALT6.bat).
