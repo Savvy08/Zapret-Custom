@@ -2,12 +2,17 @@
   <b>Zapret Custom <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/34e6a4f8-20c4-40eb-8b2d-bdb9d1fc0283" /></b>
 </h1> 
 
+---------
+
+<img width="902" height="682" alt="image" src="https://github.com/user-attachments/assets/df169aae-d3eb-462e-b292-296f652db9cb" />
+
+
+
 ----------
 ### ВНИМАНИЕ, остерегайтесь мошенников
 zapret является свободным и open source. Всякий, кто понуждает вас скачивать zapret только с его ресурса, требует удалить ссылки, видео, файлы, обосновывая эти требования авторскими правами, сам нарушает [лицензию](https://github.com/bol-van/zapret/blob/master/docs/LICENSE.txt). Поддержать официального разработчика можно [тут](https://github.com/bol-van/zapret?tab=readme-ov-file#%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0)
 
 ----
-
 
 #### Фикс на Battlefield и другие игры:
 - можете посмотреть [тут](https://github.com/Savvy08/Zapret-Custom/blob/main/%D0%A4%D0%98%D0%9A%D0%A1%20%D0%BD%D0%B0%20BF%20%D0%B8%20%D0%B4%D1%80.md)
